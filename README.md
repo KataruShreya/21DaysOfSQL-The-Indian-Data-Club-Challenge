@@ -1,0 +1,1 @@
+# 21DaysOfSQL-The-Indian-Data-Club-Challenge
