@@ -14,7 +14,6 @@ Display only these 5 records. */
 
 SELECT 
     patient_id, name, service, satisfaction
-FROM
-    patients
+FROM patients
 ORDER BY satisfaction DESC
 LIMIT 5 OFFSET 2;
